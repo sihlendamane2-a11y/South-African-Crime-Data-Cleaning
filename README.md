@@ -24,6 +24,9 @@ SAPS Crime Statistics 2024 - saps.gov.za (publicly available)
 Eastern Cape had the highest volume of crime records in the 
 dataset. A rate-based analysis would require population-adjusted 
 figures for fair provincial comparison.
+## Visualisation
+### Crime Records by Province
+![Crime Records by Province] (crime_records_by_province.png)
 ## Recommendations
 
 1. Eastern Cape resource allocation: Eastern Cape had the 
