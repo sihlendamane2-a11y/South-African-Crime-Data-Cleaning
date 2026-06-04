@@ -22,9 +22,11 @@ Python 3 · pandas · matplotlib · Jupyter Notebook
 SAPS Crime Statistics 2024 - saps.gov.za (publicly available)
 
 ## Key Finding
-Eastern Cape had the highest volume of crime records in the 
-dataset. A rate-based analysis would require population-adjusted 
-figures for fair provincial comparison.
+1. Eastern Cape recorded the highest number of crime records in the dataset.
+2. Several formatting issues in the raw SAPS Excel file prevented immediate analysis.
+3. Cleaning the data required removing unnamed columns, standardising headers, and handling missing values.
+4. The final dataset is analysis-ready and can be used for Power BI dashboards or further statistical analysis.
+   
 ## Visualisation
 ### Crime Records by Province
 <img width="1200" height="600" alt="crimes_by_province" src="https://github.com/user-attachments/assets/7b168a7f-1fdd-4019-a262-2b79a1674591" />
