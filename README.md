@@ -18,7 +18,7 @@ tidy dataset ready for dashboarding or modelling.
 Python 3 · pandas · matplotlib · Jupyter Notebook
 
 ## Data Source
-SAPS Crime Statistics 2024 — saps.gov.za (publicly available)
+SAPS Crime Statistics 2024 - saps.gov.za (publicly available)
 
 ## Key Finding
 Eastern Cape had the highest volume of crime records in the 
