@@ -1,4 +1,4 @@
-# SA Crime Data Cleaning — Python/pandas
+# SA Crime Data Cleaning - Python/pandas
 
 ## Overview
 A data cleaning project using SAPS (South African Police Service) 
