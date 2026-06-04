@@ -26,9 +26,9 @@ dataset. A rate-based analysis would require population-adjusted
 figures for fair provincial comparison.
 
 ## Files
-- crime_cleaning.ipynb — full cleaning notebook
-- saps_clean.csv — cleaned output dataset
-- crimes_by_province.png — bar chart of records by province
+- crime_cleaning.ipynb - full cleaning notebook
+- saps_clean.csv -cleaned output dataset
+- crimes_by_province.png - bar chart of records by province
 
 ## How to Run
 pip install pandas matplotlib openpyxl
