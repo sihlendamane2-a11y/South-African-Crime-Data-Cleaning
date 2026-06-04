@@ -24,6 +24,29 @@ SAPS Crime Statistics 2024 - saps.gov.za (publicly available)
 Eastern Cape had the highest volume of crime records in the 
 dataset. A rate-based analysis would require population-adjusted 
 figures for fair provincial comparison.
+## Recommendations
+
+1. Eastern Cape resource allocation: Eastern Cape had the 
+   highest volume of crime records in the dataset. Government 
+   should prioritise SAPS resource allocation; personnel, 
+   vehicles and funding, to Eastern Cape stations 
+   particularly in high-density districts.
+
+2. Data quality improvement: The raw SAPS dataset contained 
+   over 1,235 empty columns and inconsistent station naming. 
+   SAPS should invest in standardised data collection systems 
+   across all stations to enable faster and more reliable 
+   national reporting.
+
+3. Population-adjusted reporting: Raw record counts favour 
+   larger provinces. Future SAPS publications should report 
+   crime rates per 100,000 people rather than absolute counts 
+   to allow fair provincial comparisons.
+
+4. Station-level targeting: A cleaned station-level dataset 
+   is now available for deeper analysis. Policymakers should 
+   use station-level data to identify specific hotspot 
+   stations rather than making province-wide generalisations.
 
 ## Files
 - crime_cleaning.ipynb - full cleaning notebook
