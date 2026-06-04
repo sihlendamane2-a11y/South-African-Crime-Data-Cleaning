@@ -1,4 +1,4 @@
-<img width="1200" height="600" alt="crimes_by_province" src="https://github.com/user-attachments/assets/7b168a7f-1fdd-4019-a262-2b79a1674591" />
+
 # SA Crime Data Cleaning - Python/pandas
 
 ## Overview
@@ -28,6 +28,8 @@ figures for fair provincial comparison.
 ## Visualisation
 ### Crime Records by Province
 (crime_records_by_province.png)
+<img width="1200" height="600" alt="crimes_by_province" src="https://github.com/user-attachments/assets/7b168a7f-1fdd-4019-a262-2b79a1674591" />
+
 ## Recommendations
 
 1. Eastern Cape resource allocation: Eastern Cape had the 
